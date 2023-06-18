@@ -89,3 +89,21 @@ h6 {
 }
 
 /*--------------------*/
+
+
+.header {
+	display: flex;
+	font-size: 36px;
+}
+
+.formToText {
+	display: flex;
+}
+
+.buttonToPush {
+	display: flex;
+}
+
+.footer {
+	display: flex;
+}
